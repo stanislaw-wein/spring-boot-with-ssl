@@ -1,4 +1,9 @@
-# Getting Started
+
+## Medium Article 
+
+[Setting up a Secure Connection in a Spring Boot App](https://medium.com/swlh/setting-up-secure-connection-in-a-spring-boot-app-f884c9b28bfb)
+
+### Getting Started
 
 ### Reference Documentation
 For further reference, please consider the following sections:
